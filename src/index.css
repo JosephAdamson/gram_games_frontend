@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+    --color-sidebar-black: #121214;
+    --color-inner-panel-grey: #1a191e;
+    --color-dashboard-text: #83858b;
+    --color-card-black: #201f24;
+    --color-highlight-grey: #2d2d2f;
+    --color-primary-btn-select: #5866f0;
+}
+
+@layer base {
+  ::-webkit-scrollbar {
+    width: 5px;
+    height: 10px;
+    @apply bg-neutral-200;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply bg-zinc-400;
+  }
+  ::-webkit-scrollbar-corner {
+    @apply bg-neutral-200;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-highlight-grey;
+  }
+}

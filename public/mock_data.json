@@ -1,0 +1,356 @@
+{
+  "boards": [
+    {
+      "golden_tile": [
+        {
+          "quest_position": 4,
+          "reward_id": "DK_MarketRegion_Pottery_4",
+          "reward_quantity": 1,
+          "reward_type": "Item",
+          "spotlight": true
+        },
+        {
+          "quest_position": 5,
+          "reward_id": "CommonPack_XL_02",
+          "reward_quantity": 1,
+          "reward_type": "CardPack",
+          "spotlight": false
+        }
+      ],
+      "quests": [
+        {
+          "area": "EggShop",
+          "quantity": 350,
+          "render": "Tutorial_DragonPowerIcon",
+          "target": "",
+          "target_type": "None",
+          "type": "CollectDragonPower"
+        },
+        {
+          "area": "InCamp",
+          "quantity": 1,
+          "render": "TimedChests",
+          "target": "TimedChests",
+          "target_type": "Category",
+          "type": "ActivateCategory"
+        },
+        {
+          "area": "KalaShop",
+          "quantity": 10,
+          "render": "Premium_1_Root",
+          "target": "",
+          "target_type": "None",
+          "type": "SpendGemsAnywhere"
+        },
+        {
+          "area": "GrindingEvent",
+          "quantity": 5000,
+          "render": "bingo_event_grinding_event_icon",
+          "target": "",
+          "target_type": "None",
+          "type": "CollectGrindingEventPoint"
+        },
+        {
+          "area": "InCamp",
+          "quantity": 3,
+          "render": "Nests",
+          "target": "Nests",
+          "target_type": "Category",
+          "type": "ActivateCategory"
+        },
+        {
+          "area": "TreasureTower",
+          "quantity": 1,
+          "render": "treasure_tower_icon",
+          "target": "10",
+          "target_type": "Level",
+          "type": "ReachTreasureTowerFloor"
+        },
+        {
+          "area": "GrindingEvent",
+          "quantity": 2,
+          "render": "TreasureChests",
+          "target": "TreasureChests",
+          "target_type": "Category",
+          "type": "ActivateCategory"
+        },
+        {
+          "area": "Kala",
+          "quantity": 1,
+          "render": "Kala",
+          "target": "",
+          "target_type": "None",
+          "type": "CompleteKalaTrade"
+        },
+        {
+          "area": "GrindingEvent",
+          "quantity": 300,
+          "render": "Dreamflower_5",
+          "target": "Dreamflower_5",
+          "target_type": "PrefabName",
+          "type": "HarvestFrom"
+        }
+      ],
+      "rewards": [
+        {
+          "id": "C2_KingCrab_0",
+          "quantity": 1,
+          "type": "Row"
+        },
+        {
+          "id": "Mystery_Egg_3_Nest",
+          "quantity": 1,
+          "type": "Diagonal"
+        },
+        {
+          "id": "Golden_Tree_3_T2",
+          "quantity": 1,
+          "type": "FullHouse"
+        }
+      ]
+    },
+    {
+      "golden_tile": [],
+      "quests": [
+        {
+          "area": "EggShop",
+          "quantity": 500,
+          "render": "Tutorial_DragonPowerIcon",
+          "target": "",
+          "target_type": "None",
+          "type": "CollectDragonPower"
+        },
+        {
+          "area": "InCamp",
+          "quantity": 2,
+          "render": "TimedChests",
+          "target": "TimedChests",
+          "target_type": "Category",
+          "type": "ActivateCategory"
+        },
+        {
+          "area": "KalaShop",
+          "quantity": 25,
+          "render": "Premium_1_Root",
+          "target": "",
+          "target_type": "None",
+          "type": "SpendGemsAnywhere"
+        },
+        {
+          "area": "GrindingEvent",
+          "quantity": 15000,
+          "render": "bingo_event_grinding_event_icon",
+          "target": "",
+          "target_type": "None",
+          "type": "CollectGrindingEventPoint"
+        },
+        {
+          "area": "InCamp",
+          "quantity": 10,
+          "render": "Nests",
+          "target": "Nests",
+          "target_type": "Category",
+          "type": "ActivateCategory"
+        },
+        {
+          "area": "TreasureTower",
+          "quantity": 1,
+          "render": "treasure_tower_icon",
+          "target": "15",
+          "target_type": "Level",
+          "type": "ReachTreasureTowerFloor"
+        },
+        {
+          "area": "Arcadia",
+          "quantity": 1,
+          "render": "Arcane_Chest_5",
+          "target": "Arcane_Chest_5",
+          "target_type": "PrefabName",
+          "type": "Activate"
+        },
+        {
+          "area": "Kala",
+          "quantity": 2,
+          "render": "Kala",
+          "target": "",
+          "target_type": "None",
+          "type": "CompleteKalaTrade"
+        },
+        {
+          "area": "GrindingEvent",
+          "quantity": 1,
+          "render": "Life_Orb_8_Root",
+          "target": "Life_Orb_8_Root",
+          "target_type": "PrefabName",
+          "type": "Create"
+        }
+      ],
+      "rewards": [
+        {
+          "id": "C2_KingCrab_1",
+          "quantity": 1,
+          "type": "Row"
+        },
+        {
+          "id": "Mystery_Egg_MegaNest",
+          "quantity": 1,
+          "type": "Diagonal"
+        },
+        {
+          "id": "Golden_Tree_4_T2",
+          "quantity": 1,
+          "type": "FullHouse"
+        }
+      ]
+    },
+    {
+      "golden_tile": [],
+      "quests": [
+        {
+          "area": "EggShop",
+          "quantity": 1000,
+          "render": "Tutorial_DragonPowerIcon",
+          "target": "",
+          "target_type": "None",
+          "type": "CollectDragonPower"
+        },
+        {
+          "area": "InCamp",
+          "quantity": 3,
+          "render": "TimedChests",
+          "target": "TimedChests",
+          "target_type": "Category",
+          "type": "ActivateCategory"
+        },
+        {
+          "area": "InCamp",
+          "quantity": 1,
+          "render": "Dragon_CrystalCavern_T2_1_Root",
+          "target": "Dragon_CrystalCavern_T2_1_Root",
+          "target_type": "PrefabName",
+          "type": "Create"
+        },
+        {
+          "area": "GrindingEvent",
+          "quantity": 29000,
+          "render": "bingo_event_grinding_event_icon",
+          "target": "",
+          "target_type": "None",
+          "type": "CollectGrindingEventPoint"
+        },
+        {
+          "area": "InCamp",
+          "quantity": 5,
+          "render": "Spawner_ExoticFlower",
+          "target": "Spawner_ExoticFlower",
+          "target_type": "PrefabName",
+          "type": "Activate"
+        },
+        {
+          "area": "InCamp",
+          "quantity": 2,
+          "render": "Dupe_Jar_Camp",
+          "target": "",
+          "target_type": "None",
+          "type": "DupeJarOpened"
+        },
+        {
+          "area": "Arcadia",
+          "quantity": 5,
+          "render": "Arcane_Chest_5",
+          "target": "Arcane_Chest_5",
+          "target_type": "PrefabName",
+          "type": "Activate"
+        },
+        {
+          "area": "InCamp",
+          "quantity": 1,
+          "render": "race_event_icon",
+          "target": "",
+          "target_type": "None",
+          "type": "WinRaceEvent"
+        },
+        {
+          "area": "InCamp",
+          "quantity": 3,
+          "render": "EggChests",
+          "target": "EggChests",
+          "target_type": "Category",
+          "type": "ActivateCategory"
+        }
+      ],
+      "rewards": [
+        {
+          "id": "C2_KingCrab_2",
+          "quantity": 1,
+          "type": "Row"
+        },
+        {
+          "id": "Season_Egg",
+          "quantity": 2,
+          "type": "Diagonal"
+        },
+        {
+          "id": "C2_Mystery_Egg_MegaNest",
+          "quantity": 1,
+          "type": "FullHouse"
+        }
+      ]
+    }
+  ],
+  "theme": "Default",
+  "title": [
+    {
+      "language_id": "en",
+      "translation": "Sacred Swamp Prize Hunt"
+    },
+    {
+      "language_id": "fr",
+      "translation": "Chasse aux prix du marais sacré"
+    },
+    {
+      "language_id": "de",
+      "translation": "\"Sakraler Sumpf\"-Preissuche"
+    },
+    {
+      "language_id": "es",
+      "translation": "Búsqueda de premios pantano sagrado"
+    },
+    {
+      "language_id": "ja",
+      "translation": "聖なる沼地プライズハント"
+    },
+    {
+      "language_id": "ko",
+      "translation": "성스러운 늪 경품 사냥"
+    },
+    {
+      "language_id": "pt-BR",
+      "translation": "Caça aos Prêmios do Pântano Sagrado"
+    },
+    {
+      "language_id": "ru",
+      "translation": "Охота за призами Священного болота"
+    },
+    {
+      "language_id": "it",
+      "translation": "Caccia al premio Palude sacra"
+    },
+    {
+      "language_id": "zh-CN",
+      "translation": "神圣沼泽寻奖"
+    },
+    {
+      "language_id": "zh-TW",
+      "translation": "神聖沼澤尋寶活動"
+    },
+    {
+      "language_id": "nl",
+      "translation": "Heilig moeras-prijzenjacht"
+    },
+    {
+      "language_id": "tr",
+      "translation": "Kutsal Bataklık Ödül Avı"
+    }
+  ]
+}
