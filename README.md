@@ -19,7 +19,7 @@
 - [x] Display data in structured layout skeleton.
   - [x] Design layout and create app layout skeleton.
   - [x] Pipe in data.
-- [x] Support editing of values in data tables (top level and board data).
+- [ ] Support editing of values in data tables (top level and board data). Well, kind of, see BUG section.
 - [x] Validate values on input.
 - [x] Styling.
 
@@ -30,6 +30,7 @@
   - [x] Add Quests, Rewards, Golden Tiles.
   - [x] Delete Quests, Rewards, Golden Tiles.
   - [ ] Duplicate boards
+  - [ ] Update Board state,
 - [x] Highlight missing or malformed fields.
 - [x] Use React Context or similar for managing app state.
 - [x] Add toggles for “advanced” fields (e.g., target, target_type) that aren’t always needed.
